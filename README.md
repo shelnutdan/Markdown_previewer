@@ -8,7 +8,6 @@ The preview can be rendered as one of the following, but not limited to:
 - Italic: *italicized text*
 - code block: `code`
 - list item: (ordered and unordered)
-- blockquote: > blockquote
 - image: ![alt text](image.jpg)
 - bold text: **bold text**
 
