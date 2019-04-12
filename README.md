@@ -11,6 +11,9 @@ The preview can be rendered as one of the following, but not limited to:
 - image: ![alt text](image.jpg)
 - bold text: **bold text**
 
+## Live Demo
+[Live Demo](http://giddy-railway.surge.sh/)
+
 ## Skills
 - HTML5
 - CSS3
